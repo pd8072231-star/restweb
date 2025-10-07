@@ -5,7 +5,7 @@
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-image: url(front.png);
     background-size: cover;
 }
@@ -24,8 +24,8 @@
 }
 
 .restname {
-    color: paleturquoise;
-    font-family: Verdana;
+    color: greenyellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left;
     position: relative;
     font-size: 300%;
@@ -34,7 +34,7 @@
 
 .line {
     color:pink;
-    font-family: Verdana;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: left;
     position: relative;
     font-size: 250%;
@@ -44,7 +44,7 @@
 
 .lines {
     color: pink;
-    font-family: Verdana;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     position: relative;
     font-size: 130%;

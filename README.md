@@ -30,7 +30,6 @@ Publish the website in the given URL.
 ## PROGRAM:
 ```
 home.html
-
 <html>
     <head>
         <title>Home</title>
@@ -45,7 +44,7 @@ home.html
             <a href="contact.html">CONTACT</a>
         </div>
         <div class="restname">
-            <h4><b>TRADITIONAL INDIAN RESTAURANT</b></h4>
+            <h3><b>TRADITIONAL INDIAN RESTAURANT</b></h3>
         </div >
         <div class="line">
             The tradition of tamilnadu
@@ -72,7 +71,7 @@ style1.css
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-image: url(front.png);
     background-size: cover;
 }
@@ -91,8 +90,8 @@ style1.css
 }
 
 .restname {
-    color: paleturquoise;
-    font-family: Verdana;
+    color: greenyellow;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left;
     position: relative;
     font-size: 300%;
@@ -101,7 +100,7 @@ style1.css
 
 .line {
     color:pink;
-    font-family: Verdana;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: left;
     position: relative;
     font-size: 250%;
@@ -111,7 +110,7 @@ style1.css
 
 .lines {
     color: pink;
-    font-family: Verdana;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     position: relative;
     font-size: 130%;
@@ -137,8 +136,8 @@ style1.css
     position: relative;
 }
 
- menu.html
- <html>
+menu.html
+<html>
     <head>
         <title>Home</title>
         <link rel="stylesheet" href="style2.css">
@@ -152,7 +151,7 @@ style1.css
             <a href="contact.html">CONTACT</a>
         </div>
         <div class="menu">
-            <h1><b>MENU</b></h1>
+            <h3><b>MENU</b></h3>
         </div >
         <div class="menugrid">
             <div class="menuitem">
@@ -211,7 +210,7 @@ style2.css
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-image: url(background.png);
     background-size: cover;
 }
@@ -230,7 +229,7 @@ style2.css
 }
 menu {
     color: paleturquoise;
-    font-family: Verdana;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: left;
     position: relative;
     font-size: 300%;
@@ -297,7 +296,7 @@ admin.html
             <a href="contact.html">CONTACT</a>
         </div>
         <div class="admin">
-            <h1><b>ADMINISTRATION TEAM</b></h1>
+            <h2><b>ADMINISTRATION TEAM</b></h2>
         </div>
         <div class="admingrid">
             <div class="adminlist">
@@ -478,7 +477,7 @@ style4.css
 
 .contact {
     color:pink;
-    font-family: Verdana;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     position: relative;
     font-size: 300%;
@@ -501,13 +500,14 @@ style4.css
     left: -15px;
     position: relative;
 }
+
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (209).png>)
-![alt text](<Screenshot (210).png>)
-![alt text](<Screenshot (211).png>)
-![alt text](<Screenshot (212).png>)
+![alt text](<Screenshot (213).png>)
+![alt text](<Screenshot (210)-1.png>)
+![alt text](<Screenshot (214).png>)
+![alt text](<Screenshot (215).png>)
 
 
 ## RESULT:
